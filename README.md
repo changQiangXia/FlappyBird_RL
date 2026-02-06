@@ -15,7 +15,7 @@ Click above to switch language / 点击上方切换语言
 深度强化学习训练框架，使用 DQN 和 PPO 算法训练 Flappy Bird 智能体。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/changQiangXia/FlappyBird_RL/main/docs/training_demo.png" alt="训练界面" width="500"/>
+  <img src="https://github.com/changQiangXia/FlappyBird_RL/blob/main/docs/training_demo.PNG" alt="训练界面" width="500"/>
   <br>
   <em>图1：训练时的 Pygame 可视化界面，显示分数、奖励、步数和动作信息</em>
 </p>
@@ -40,7 +40,7 @@ Click above to switch language / 点击上方切换语言
 ### PPO 算法 100万步训练结果
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/changQiangXia/FlappyBird_RL/main/docs/ppo_1m_result.png" alt="PPO训练结果" width="600"/>
+  <img src="https://github.com/changQiangXia/FlappyBird_RL/blob/main/docs/ppo_1m_result.PNG" alt="PPO训练结果" width="600"/>
   <br>
   <em>图2：PPO算法训练100万步后的结果，最高分数达到240+，展现了优秀的持续飞行能力</em>
 </p>
@@ -385,7 +385,7 @@ pip install gymnasium flappy-bird-gymnasium
 Deep Reinforcement Learning training framework using DQN and PPO algorithms to train Flappy Bird agents.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/changQiangXia/FlappyBird_RL/main/docs/training_demo.png" alt="Training Interface" width="500"/>
+  <img src="https://github.com/changQiangXia/FlappyBird_RL/blob/main/docs/training_demo.PNG" alt="Training Interface" width="500"/>
   <br>
   <em>Figure 1: Pygame visualization interface during training, showing score, reward, steps and action information</em>
 </p>
@@ -410,7 +410,7 @@ Deep Reinforcement Learning training framework using DQN and PPO algorithms to t
 ### PPO Algorithm - 1 Million Steps
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/changQiangXia/FlappyBird_RL/main/docs/ppo_1m_result.png" alt="PPO Training Result" width="600"/>
+  <img src="https://github.com/changQiangXia/FlappyBird_RL/blob/main/docs/ppo_1m_result.PNG" alt="PPO Training Result" width="600"/>
   <br>
   <em>Figure 2: PPO algorithm results after 1 million training steps, achieving highest score of 240+ pipes, demonstrating excellent sustained flight capability</em>
 </p>
